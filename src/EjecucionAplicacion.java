@@ -25,7 +25,6 @@ public class EjecucionAplicacion {
 		try {
 			p2 = pb.start();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
